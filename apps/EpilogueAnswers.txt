@@ -1,0 +1,14 @@
+Hi! I uploaded the necessary url folders that should have my functioning code in there. If not, let me know! 
+To answer the questions in the epoligue: 
+The three most important things I would change and also what I implemented: 
+
+1) Refactoring further: My code is kind of confusing because I encountered a few unexpected errors and tried to accomedate accordingly, but
+I've never worked with typescript/javascript prior to this, which becomes clear in the organization of my code. I think I would further refactor 
+main.ts especially into smaller parts, to make the backend more accessible to work with. 
+
+2) Error handling: The component I added was some error/loading patterns on the front end, but the error methods I implemented definitely could 
+have been improved to validate user inputs, and also in the backend by validating if the final HTTP code of the updated URL is correct. 
+
+3) Adding tests would also be a good way to improve the codebase. 
+
+Like I said above, I implemented some error/loading patterns to the app.tsx file to make my code more unique. 
